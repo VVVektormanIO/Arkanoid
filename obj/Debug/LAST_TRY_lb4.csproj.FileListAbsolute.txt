@@ -1,0 +1,10 @@
+F:\VStudio\LAST_TRY_lb4\bin\Debug\LAST_TRY_lb4.exe.config
+F:\VStudio\LAST_TRY_lb4\bin\Debug\LAST_TRY_lb4.exe
+F:\VStudio\LAST_TRY_lb4\bin\Debug\LAST_TRY_lb4.pdb
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.csproj.AssemblyReference.cache
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.Form1.resources
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.Properties.Resources.resources
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.csproj.GenerateResource.cache
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.csproj.CoreCompileInputs.cache
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.exe
+F:\VStudio\LAST_TRY_lb4\obj\Debug\LAST_TRY_lb4.pdb
